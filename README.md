@@ -366,7 +366,8 @@ If you use this dataset, please cite **both** of the following papers:
   year      = {2026},
   address   = {Pisa, Italy},
   month     = mar,
-  note      = {Accepted for publication}
+  publisher = {IEEE},
+  doi       = {10.1109/PerComWorkshops68308.2026.11585385}
 }
 ```
 
