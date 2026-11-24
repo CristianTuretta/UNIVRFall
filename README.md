@@ -356,7 +356,8 @@ If you use this dataset, please cite **both** of the following papers:
   author={Turetta, Cristian and Ali, Muhammad Toqeer and Demrozi, Florenc and Pravadelli, Graziano},
   booktitle={2025 Design, Automation \& Test in Europe Conference (DATE)},
   year={2025},
-  organization={IEEE}
+  organization={IEEE},
+  doi={10.23919/DATE64628.2025.10993022}
 }
 
 @inproceedings{ali2026imu_fall_dataset,
