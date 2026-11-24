@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+type: dataset
+title: "UNIVRFall: IMU-based pre-impact, impact, and post-impact fall detection dataset"
+version: v1
+doi: 10.5281/zenodo.18346755
+date-released: 2026-01-23
+url: "https://doi.org/10.5281/zenodo.18346755"
+repository: "https://zenodo.org/records/18346755"
+license: CC-BY-4.0
+keywords:
+  - fall detection
+  - pre-impact fall detection
+  - IMU
+  - wearable sensors
+  - construction safety
+  - activity recognition
+  - AutoML
+  - edge AI
+authors:
+  - family-names: Ali
+    given-names: Muhammad Toqeer
+    affiliation: University of Verona
+    orcid: "https://orcid.org/0009-0003-4368-211X"
+  - family-names: Turetta
+    given-names: Cristian
+    affiliation: Wenzhou Business College
+    orcid: "https://orcid.org/0000-0002-8018-0472"
+  - family-names: Demrozi
+    given-names: Florenc
+    affiliation: University of Stavanger
+    orcid: "https://orcid.org/0000-0002-5422-9826"
+  - family-names: Pravadelli
+    given-names: Graziano
+    affiliation: University of Verona
+    orcid: "https://orcid.org/0000-0002-7833-1673"
+preferred-citation:
+  type: conference-paper
+  title: "IMU-based pre-impact, impact, and post-impact fall detection dataset"
+  authors:
+    - family-names: Ali
+      given-names: Muhammad Toqeer
+    - family-names: Turetta
+      given-names: Cristian
+    - family-names: Demrozi
+      given-names: Florenc
+    - family-names: Pravadelli
+      given-names: Graziano
+  collection-title: "Proceedings of the 22nd International Workshop on Context and Activity Modeling and Recognition with AI (CoMoRe-AI 2026), co-located with the 24th IEEE International Conference on Pervasive Computing and Communications (PerCom 2026 Workshops)"
+  publisher:
+    name: IEEE
+  conference:
+    name: "CoMoRe-AI 2026 (Workshop at IEEE PerCom 2026)"
+    city: Pisa
+    country: IT
+  year: 2026
+  month: 3
+  doi: 10.1109/PerComWorkshops68308.2026.11585385
+references:
+  - type: conference-paper
+    title: "A Lightweight CNN for Real-Time Pre-Impact Fall Detection"
+    authors:
+      - family-names: Turetta
+        given-names: Cristian
+      - family-names: Ali
+        given-names: Muhammad Toqeer
+      - family-names: Demrozi
+        given-names: Florenc
+      - family-names: Pravadelli
+        given-names: Graziano
+    collection-title: "2025 Design, Automation & Test in Europe Conference (DATE)"
+    publisher:
+      name: IEEE
+    year: 2025
+    doi: 10.23919/DATE64628.2025.10993022

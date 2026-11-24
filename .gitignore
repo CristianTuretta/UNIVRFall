@@ -1,0 +1,7 @@
+UniVrFall_Dataset/
+UniVrFall_Dataset.zip
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+segments/
